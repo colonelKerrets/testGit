@@ -6,7 +6,6 @@ masterHallo
 
 im neuen branch editiert
 
-Meine Aenderung
 
 iguzgiuzg
 
@@ -15,3 +14,5 @@ Second Branch hello commit 1
 Commit 2
 
 zzgv
+
+hhhh
